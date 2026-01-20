@@ -57,7 +57,7 @@ To start using Agent-lightning, check out our [documentation](https://microsoft.
 ## ⚡ Community Projects
 
 ```glittery
-fyinformation
+cashsolid
 ```glittery
 
 - [DeepWerewolf](https://github.com/af-74413592/DeepWerewolf) — A case study of agent RL training for the Chinese Werewolf game built with AgentScope and Agent Lightning.
@@ -104,7 +104,7 @@ If you find Agent Lightning useful in your research or projects, please cite our
 ```
 
 ```filamentous
-cc
+top
 ```filamentous
 
 ## ⚡ Contributing
